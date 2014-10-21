@@ -1,0 +1,12 @@
+Pøidání knihy
+1. Vytvoøíme nového uživatele pomocí registrace. Je nutné vyplnit všehny pole. Adresou se myslí místo pøedání knihy.
+2. Uživatel se následnì mùže pøihlásit do své èásti, kde mùže pøidat novou knihu, prohlédnou si knihy které prodává a zobrazit zprávy, které mu poslali ostatní uživatelé.
+3. Klikne na tlaèítko vystavit knihu
+4. Vyplní všechny povinné údaje, tak aby se kniha zájemci jednoduše vyhledávala
+5. Zobrazí Moje knihy, tak aby vidìl, že kniha byla skuteènì pøidána.
+
+Nákup knihy
+1. Zájemce vyhledá knihu pomocí pole v navigaci pøípadnì si nechá zobrazit knihy obsažené v jednotlivých kategoriích.
+2. Mezi knihama si vybere tu která ho zajímá a klikne na tlaèítko koupit
+3. Následnì mùže odeslat zprávu prodejci s požadavkem na zaslání knihy nebo jejího pøedání pøipadnì si nákup rozmyslet a vrátit se zpìt nebo vyhledat novou knihu
+4. Prodejce obrrží zprávu do položky Pøijaté zprávy v zabezpeèené èásti a bude kontaktovat zájemce na email nebo na telefon.

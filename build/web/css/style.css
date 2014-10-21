@@ -1,0 +1,34 @@
+.item {
+    background-color: #D5B1A2;
+}
+.item-product {
+    background-color: #EEE6D9;
+}
+
+.item-content {
+    top: 0;
+}
+.item-content h3 {
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: 400;
+    margin-top: -15px;
+    padding-bottom: 5px;
+    color: #EEE6D9;
+}
+item{
+    text-decoration: none;
+}
+
+.item-icon {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #583A52;
+}
+
+h2 {
+    color: #97708A;
+}
